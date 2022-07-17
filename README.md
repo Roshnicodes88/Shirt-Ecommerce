@@ -1,2 +1,2 @@
 # Shirt-Ecommerce
-This is website 
+This is a simple website to show different types of Shirts. 
